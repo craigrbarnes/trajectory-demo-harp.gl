@@ -14,8 +14,8 @@ Follow the instructions at [Getting Credentials](https://developer.here.com/tuto
 
 In your command line, create a new directory and navigate into it:
 ```
-mkdir harp.gl-tutorial
-cd harp.gl-tutorial
+mkdir trajectory-demo-harp.gl
+cd trajectory-demo-harp.gl
 ```
 Create two files: index.html and index.js:
 ```
