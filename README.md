@@ -1,9 +1,9 @@
 # Plotting trajectories using harp.gl
 
-This tutorial plots trajectories as lin e from a local geojson file using harp.gl.
+This tutorial plots trajectories as line from a local geojson file using harp.gl.
 
 harp.gl is a beta product and we are always looking to improve it with your feedback. For any comments,
- suggestions, or bug reports, we encourage you to create an issue on the harp.gl GitHub repository
+suggestions, or bug reports, we encourage you to create an issue on the harp.gl GitHub repository
 
 ### Setup
 
