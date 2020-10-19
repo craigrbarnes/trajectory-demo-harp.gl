@@ -25,7 +25,7 @@ map.resize(window.innerWidth, window.innerHeight);
 window.onresize = () => map.resize(window.innerWidth, window.innerHeight);
 
 const omvDataSource = new harp.OmvDataSource({
-    baseUrl: "https://xyz.api.here.com/tiles/herebase.02",
+    baseUrl: "https://vector.hereapi.com/v2/vectortiles/base/mc",
     apiFormat: harp.APIFormat.XYZOMV,
     styleSetName: "tilezen",
     authenticationCode: 'YOUR_XYZ_TOKEN', // YOUR API Code
